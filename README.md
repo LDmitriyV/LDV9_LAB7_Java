@@ -3,4 +3,4 @@
 **Выполнил Лось Д.В, ИС-402**
 
 ![Screenshot](screenshot1.png)
-[Screenshot](screenshot2.png)
+![Screenshot](screenshot2.png)
