@@ -1,0 +1,9 @@
+2022-11-29 01:31:53 [INFO ] FXMLDocumentController:58 - Start button action
+2022-11-29 01:31:55 [WARN ] FXMLDocumentController:68 - Incorrect data!
+2022-11-29 01:32:02 [INFO ] FXMLDocumentController:58 - Start button action
+2022-11-29 01:32:03 [WARN ] FXMLDocumentController:68 - Incorrect data!
+2022-11-29 01:32:10 [INFO ] FXMLDocumentController:58 - Start button action
+2022-11-29 01:32:10 [INFO ] FXMLDocumentController:116 - End button action
+2022-11-29 01:32:13 [INFO ] FXMLDocumentController:121 - Start Cleaning
+2022-11-29 01:32:13 [INFO ] FXMLDocumentController:126 - End Cleaning
+2022-11-29 01:32:15 [INFO ] FXMLDocumentController:131 - End log4j
